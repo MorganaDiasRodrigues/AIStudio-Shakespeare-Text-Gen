@@ -1,5 +1,5 @@
 # Shakespeare text generation with RNN
-![alt](../../images/robot_shakespeare.png)
+![alt](images/robot_shakespeare.png)
 
  [1. Project Setup on AI Studio](#1-project-setup-on-ai-studio)
 
@@ -15,14 +15,14 @@
 
  For the memory configurations, we recommend 40 GB for Memory and 4 GB for VRAM
  
- ![alt](../../images/DEEP-LEARNING-GPU-4GB.png)
+ ![alt](images/DEEP-LEARNING-GPU-4GB.png)
 ---
  ### Accessing Jupyter Notebooks
 
 
 Go to [Catalogue repository](https://github.azc.ext.hp.com/phoenix/ds-experiments/tree/draft/demo_catalogue) and copy the HTTPS URL. Next, go to your Project > Setup & Documentation > GitHub Repository and hit the CLONE GIT REPOSITORY button. Paste the URL, choose a local folder for the repository to be located and add it to the project.
 
-![alt](../../images/CLONE_GITHUB_REPO.png)
+![alt](images/CLONE_GITHUB_REPO.png)
  ---
 
  ### How to access the trained model
@@ -54,7 +54,7 @@ For deploying the model, you have to run the Deployment.ipynb notebook for regis
 
 `size`: the size the generated text can be
 
-![alt](../../images/TEXT-GEN-REQUEST-BODY.png)
-![alt](../../images/TEXT-GEN-RESPONSE-BODY.png)
+![alt](images/TEXT-GEN-REQUEST-BODY.png)
+![alt](images/TEXT-GEN-RESPONSE-BODY.png)
 
 ---
